@@ -10,6 +10,7 @@
 # desde donde se invocarán estas funciones
 ## %load_ext autoreload
 ## %autoreload 2
+## %matplotlib inplace
 
 
 # Funcion que muestra un gráfico con la Volatilidad vs Rentabilidad
